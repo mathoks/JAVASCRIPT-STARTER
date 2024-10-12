@@ -30,6 +30,7 @@
     "jest": "^28.1.2",
     "nodemon": "^2.0.19",
     "prettier": "^2.7.1",
+    "prisma": "^5.20.0",
     "supertest": "^6.2.4"
   },
   "jest": {
